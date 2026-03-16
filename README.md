@@ -1,7 +1,3 @@
-Voici votre texte structuré et optimisé au format **Markdown**. J'ai ajouté des éléments de mise en forme (gras, listes, tableaux) pour rendre la lecture plus fluide et professionnelle.
-
----
-
 # Projet Data : Kadea Telco
 
 ## 📝 Contexte
